@@ -14,8 +14,7 @@ Defendé el negocio familiar de **1.240 pollos armados** repartidos en tres olea
 
 ## 🎮 Jugar
 
-**[▶ Jugar ahora](https://TU-USUARIO.github.io/pollocalipsis/)**
-*(reemplazá el enlace por el tuyo una vez publicado)*
+**[▶ Jugar ahora]([https://TU-USUARIO.github.io/pollocalipsis/](https://nibashhx.github.io/POLLOCALIPSIS_v1.40/))**
 
 Se puede **instalar como app** en el celular o en el escritorio, y una vez instalada
 **funciona sin conexión**.
