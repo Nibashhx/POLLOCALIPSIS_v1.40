@@ -1,0 +1,2 @@
+# El juego es un único HTML enorme: evitar que git altere finales de línea
+*.html -text
