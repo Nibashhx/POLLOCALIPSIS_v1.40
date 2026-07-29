@@ -8,9 +8,13 @@ de las pocas abastecidas… y los pollos vinieron a cobrarse la revancha.
 
 Defendé el negocio familiar de **1.240 pollos armados** repartidos en tres oleadas.
 
+![Pollocalipsis](icons/icon-512.png)
+
 ---
 
 ## 🎮 Jugar
+
+**[▶ Jugar ahora](https://nibashhx.github.io/POLLOCALIPSIS_v1.40/)**
 
 Se puede **instalar como app** en el celular o en el escritorio, y una vez instalada
 **funciona sin conexión**.
@@ -103,14 +107,14 @@ Todo el juego es **un único archivo HTML** sin motor ni dependencias externas:
    git add .
    git commit -m "Pollocalipsis: versión inicial"
    git branch -M main
-   git remote add origin https://github.com/TU-USUARIO/pollocalipsis.git
+   git remote add origin https://github.com/Nibashhx/POLLOCALIPSIS_v1.40.git
    git push -u origin main
    ```
 
 2. En el repositorio: **Settings → Pages**.
 3. En *Source* elegí **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
 4. Guardá y esperá un minuto. Queda publicado en
-   `https://TU-USUARIO.github.io/pollocalipsis/`.
+   `https://nibashhx.github.io/POLLOCALIPSIS_v1.40/`.
 
 > **Importante:** la PWA necesita **HTTPS** para instalarse y funcionar sin conexión.
 > GitHub Pages ya lo provee. Si abrís el `index.html` directamente desde el disco
