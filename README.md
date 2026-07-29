@@ -8,7 +8,7 @@ de las pocas abastecidas… y los pollos vinieron a cobrarse la revancha.
 
 Defendé el negocio familiar de **1.240 pollos armados** repartidos en tres oleadas.
 
-![Pollocalipsis](https://nibashhx.github.io/POLLOCALIPSIS_v1.40/icons/icon-512.png)
+![Pollocalipsis](icon-512.png)
 
 ---
 
