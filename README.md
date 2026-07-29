@@ -97,37 +97,6 @@ Todo el juego es **un único archivo HTML** sin motor ni dependencias externas:
 
 ---
 
-## 🚀 Publicar en GitHub Pages
-
-1. Creá un repositorio nuevo (por ejemplo `pollocalipsis`) y subí estos archivos a la
-   raíz de la rama `main`.
-
-   ```bash
-   git init
-   git add .
-   git commit -m "Pollocalipsis: versión inicial"
-   git branch -M main
-   git remote add origin https://github.com/Nibashhx/POLLOCALIPSIS_v1.40.git
-   git push -u origin main
-   ```
-
-2. En el repositorio: **Settings → Pages**.
-3. En *Source* elegí **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-4. Guardá y esperá un minuto. Queda publicado en
-   `https://nibashhx.github.io/POLLOCALIPSIS_v1.40/`.
-
-> **Importante:** la PWA necesita **HTTPS** para instalarse y funcionar sin conexión.
-> GitHub Pages ya lo provee. Si abrís el `index.html` directamente desde el disco
-> (`file://`) el juego anda igual, pero sin instalación ni modo offline.
-
-### Al publicar una versión nueva
-
-Subí el `index.html` actualizado y **cambiá `CACHE_VERSION`** en `service-worker.js`
-(por ejemplo de `pollocalipsis-v1.39` a `v1.40`). Si no lo cambiás, quienes ya lo
-tengan instalado seguirán viendo la versión vieja desde su caché.
-
----
-
 ## 📱 Instalar
 
 - **Android (Chrome):** menú ⋮ → *Instalar aplicación*
